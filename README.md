@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harendra Samarawickrama</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka.</h3>
+<h5 align="center">|| Undergraduate at SLIIT ||</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21062438&label=Profile%20views&color=0e75b6&style=flat" alt="it21062438" /> </p>
 
